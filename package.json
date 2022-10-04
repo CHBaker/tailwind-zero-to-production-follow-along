@@ -1,0 +1,16 @@
+{
+  "name": "tailwindcss-zero-to-production-follow-along",
+  "version": "1.0.0",
+  "description": "tutorial",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "author": "Hudson Baker",
+  "devDependencies": {
+    "tailwindcss": "^2.02",
+    "autoprefixer": "^10.2.3",
+    "postcss": "^8.2.4",
+    "vite": "^3.1.4"
+  }
+}
