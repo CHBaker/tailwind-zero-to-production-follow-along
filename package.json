@@ -4,7 +4,8 @@
   "description": "tutorial",
   "main": "index.js",
   "scripts": {
-    "dev": "vite"
+    "dev": "vite",
+    "build": "vite build"
   },
   "author": "Hudson Baker",
   "devDependencies": {
